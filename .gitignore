@@ -2,3 +2,4 @@
 __pycache__/
 maintenance_mode_state.txt
 .env*
+env/
